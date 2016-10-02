@@ -2,7 +2,9 @@
     <string name="app_name">PPEL_APP</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="info_page">This is a test string for our info page</string>
+    <string name="questions_page">This is a test string for our info page</string>
+    <string name="help_page">This is a test string for our info page</string>
+    <string name="hello_blank_fragment">blank fragment</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
